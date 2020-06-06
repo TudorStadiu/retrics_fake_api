@@ -17,7 +17,7 @@
         "match": "69%"
       },
       {
-        "postId": 1,
+        "postId": 3,
         "id": 3,
         "name": "Catalin Trandafir",
         "email": "cringeboy@gmail.com",
@@ -25,7 +25,7 @@
         "match": "94%"
       },
       {
-        "postId": 1,
+        "postId": 4,
         "id": 4,
         "name": "Yoko Yokojima",
         "email": "stupidboy@gmail.com",
@@ -33,7 +33,7 @@
         "match": "90%"
       },
       {
-        "postId": 1,
+        "postId": 5,
         "id": 5,
         "name": "Cosmin Calcii",
         "email": "rockboy@gmail.com",
@@ -41,7 +41,7 @@
         "match": "25%"
       },
       {
-        "postId": 1,
+        "postId": 5,
         "id": 6,
         "name": "Andrei Macaneata",
         "email": "artsyboy@gmail.com",
@@ -52,31 +52,87 @@
     "posts" : [
         {
             "id": 1,
-            "name": "Junior Accountant" 
+            "name": "Junior Accountant",
+            "attributes":{
+              "memory": 20,
+              "focus": 60,
+              "repetitive_tasks": 10,
+              "non_repetitie_tasks": 50,
+              "creativity": 30,
+              "stress_tolerance": 100
+            } 
           },
           {
             "id": 2,
-            "name": "Software Developer" 
+            "name": "Software Developer",
+            "attributes":{
+              "memory": 20,
+              "focus": 60,
+              "repetitive_tasks": 10,
+              "non_repetitie_tasks": 50,
+              "creativity": 30,
+              "stress_tolerance": 100
+            } 
           },
           {
             "id": 3,
-            "name": "Senior Sales" 
+            "name": "Senior Sales",
+            "attributes":{
+              "memory": 20,
+              "focus": 60,
+              "repetitive_tasks": 10,
+              "non_repetitie_tasks": 50,
+              "creativity": 30,
+              "stress_tolerance": 100
+            } 
           },
           {
             "id": 4,
-            "name": "Product Manager" 
+            "name": "Product Manager",
+            "attributes":{
+              "memory": 20,
+              "focus": 60,
+              "repetitive_tasks": 10,
+              "non_repetitie_tasks": 50,
+              "creativity": 30,
+              "stress_tolerance": 100
+            } 
           },
           {
             "id": 5,
-            "name": "Data Scientist" 
+            "name": "Data Scientist",
+            "attributes":{
+              "memory": 20,
+              "focus": 60,
+              "repetitive_tasks": 10,
+              "non_repetitie_tasks": 50,
+              "creativity": 30,
+              "stress_tolerance": 100
+            } 
           },
           {
             "id": 6,
-            "name": "Junior Marketing Manager" 
+            "name": "Junior Marketing Manager",
+            "attributes":{
+              "memory": 20,
+              "focus": 60,
+              "repetitive_tasks": 10,
+              "non_repetitie_tasks": 50,
+              "creativity": 30,
+              "stress_tolerance": 100
+            } 
           },
           {
             "id": 7,
-            "name": "Business Analyst" 
+            "name": "Business Analyst",
+            "attributes":{
+              "memory": 20,
+              "focus": 60,
+              "repetitive_tasks": 10,
+              "non_repetitie_tasks": 50,
+              "creativity": 30,
+              "stress_tolerance": 100
+            } 
           }
                 
     ]
