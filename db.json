@@ -1,55 +1,103 @@
 {
-    "users" : [
+    "candidates" : [
       {
-        "postId": 1,
+        "openingId": 1,
         "id": 1,
         "name": "Stadiu Tudor",
         "email": "ceoboy@gmail.com",
         "status": "Accepted",
-        "match": "96%"
+        "match": "96%",
+        "attributes":{
+          "memory": 20,
+          "focus": 60,
+          "repetitive_tasks": 10,
+          "non_repetitie_tasks": 50,
+          "creativity": 30,
+          "stress_tolerance": 100
+        }
       },
       {
-        "postId": 1,
+        "openingId": 1,
         "id": 2,
         "name": "Andrei Vasile",
         "email": "ctoboy@gmail.com",
         "status": "Pending",
-        "match": "69%"
+        "match": "69%",
+        "attributes":{
+          "memory": 20,
+          "focus": 60,
+          "repetitive_tasks": 10,
+          "non_repetitie_tasks": 50,
+          "creativity": 30,
+          "stress_tolerance": 100
+        }
       },
       {
-        "postId": 3,
+        "openingId": 3,
         "id": 3,
         "name": "Catalin Trandafir",
         "email": "cringeboy@gmail.com",
         "status": "Rejected",
-        "match": "94%"
+        "match": "94%",
+        "attributes":{
+          "memory": 20,
+          "focus": 60,
+          "repetitive_tasks": 10,
+          "non_repetitie_tasks": 50,
+          "creativity": 30,
+          "stress_tolerance": 100
+        }
       },
       {
-        "postId": 4,
+        "openingId": 4,
         "id": 4,
         "name": "Yoko Yokojima",
         "email": "stupidboy@gmail.com",
         "status": "Accepted",
-        "match": "90%"
+        "match": "90%",
+        "attributes":{
+          "memory": 20,
+          "focus": 60,
+          "repetitive_tasks": 10,
+          "non_repetitie_tasks": 50,
+          "creativity": 30,
+          "stress_tolerance": 100
+        }
       },
       {
-        "postId": 5,
+        "openingId": 5,
         "id": 5,
         "name": "Cosmin Calcii",
         "email": "rockboy@gmail.com",
         "status": "Accepted",
-        "match": "25%"
+        "match": "25%",
+        "attributes":{
+          "memory": 20,
+          "focus": 60,
+          "repetitive_tasks": 10,
+          "non_repetitie_tasks": 50,
+          "creativity": 30,
+          "stress_tolerance": 100
+        }
       },
       {
-        "postId": 5,
+        "openingId": 5,
         "id": 6,
         "name": "Andrei Macaneata",
         "email": "artsyboy@gmail.com",
         "status": "Invited",
-        "match": "34%"
+        "match": "34%",
+        "attributes":{
+          "memory": 20,
+          "focus": 60,
+          "repetitive_tasks": 10,
+          "non_repetitie_tasks": 50,
+          "creativity": 30,
+          "stress_tolerance": 100
+        }
       }
     ],
-    "posts" : [
+    "opening" : [
         {
             "id": 1,
             "name": "Junior Accountant",
@@ -135,6 +183,43 @@
             } 
           }
                 
+    ],
+    "users" : [
+      {
+        "id": 1,
+        "name": "HR Employee Ariana",
+        "email": "ariana@gmail.com" 
+      },
+      {
+        "id": 2,
+        "name": "HR Employee Maricela",
+        "email": "Maricela@gmail.com" 
+      },
+      {
+        "id": 3,
+        "name": "HR Employee Consuela",
+        "email": "Consuela@gmail.com" 
+      },
+      {
+        "id": 4,
+        "name": "HR Employee Alin",
+        "email": "Alin@gmail.com" 
+      },
+      {
+        "id": 5,
+        "name": "HR Employee Delfin",
+        "email": "Delfin@gmail.com" 
+      },
+      {
+        "id": 6,
+        "name": "HR Employee Xamarin",
+        "email": "xamarin@gmail.com" 
+      },
+      {
+        "id": 7,
+        "name": "HR Employee Biban",
+        "email": "biban@gmail.com" 
+      }
     ]
 
 }
