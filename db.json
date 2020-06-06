@@ -1,7 +1,7 @@
 {
-    "posts" : [
+    "users" : [
       {
-        "userId": 1,
+        "postId": 1,
         "id": 1,
         "name": "Stadiu Tudor",
         "email": "ceoboy@gmail.com",
@@ -9,7 +9,7 @@
         "match": "96%"
       },
       {
-        "userId": 1,
+        "postId": 1,
         "id": 2,
         "name": "Andrei Vasile",
         "email": "ctoboy@gmail.com",
@@ -17,7 +17,7 @@
         "match": "69%"
       },
       {
-        "userId": 1,
+        "postId": 1,
         "id": 3,
         "name": "Catalin Trandafir",
         "email": "cringeboy@gmail.com",
@@ -25,7 +25,7 @@
         "match": "94%"
       },
       {
-        "userId": 1,
+        "postId": 1,
         "id": 4,
         "name": "Yoko Yokojima",
         "email": "stupidboy@gmail.com",
@@ -33,7 +33,7 @@
         "match": "90%"
       },
       {
-        "userId": 1,
+        "postId": 1,
         "id": 5,
         "name": "Cosmin Calcii",
         "email": "rockboy@gmail.com",
@@ -41,7 +41,7 @@
         "match": "25%"
       },
       {
-        "userId": 1,
+        "postId": 1,
         "id": 6,
         "name": "Andrei Macaneata",
         "email": "artsyboy@gmail.com",
@@ -49,7 +49,7 @@
         "match": "34%"
       }
     ],
-    "users" : [
+    "posts" : [
         {
             "id": 1,
             "name": "Junior Accountant" 
