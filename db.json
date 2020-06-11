@@ -10,10 +10,10 @@
         "attributes":{
           "memory": 20,
           "focus": 60,
-          "repetitive_tasks": 10,
+          "repetitive_tasks": 30,
           "non_repetitie_tasks": 50,
           "creativity": 30,
-          "stress_tolerance": 100
+          "stress_tolerance": 90
         }
       },
       {
@@ -24,12 +24,12 @@
         "status": "Pending",
         "match": "69%",
         "attributes":{
-          "memory": 20,
-          "focus": 60,
-          "repetitive_tasks": 10,
+          "memory": 80,
+          "focus": 65,
+          "repetitive_tasks": 50,
           "non_repetitie_tasks": 50,
           "creativity": 30,
-          "stress_tolerance": 100
+          "stress_tolerance": 70
         }
       },
       {
@@ -42,10 +42,10 @@
         "attributes":{
           "memory": 20,
           "focus": 60,
-          "repetitive_tasks": 10,
-          "non_repetitie_tasks": 50,
+          "repetitive_tasks": 20,
+          "non_repetitie_tasks": 40,
           "creativity": 30,
-          "stress_tolerance": 100
+          "stress_tolerance": 30
         }
       },
       {
@@ -56,11 +56,11 @@
         "status": "Accepted",
         "match": "90%",
         "attributes":{
-          "memory": 20,
+          "memory": 70,
           "focus": 60,
-          "repetitive_tasks": 10,
-          "non_repetitie_tasks": 50,
-          "creativity": 30,
+          "repetitive_tasks": 90,
+          "non_repetitie_tasks": 80,
+          "creativity": 40,
           "stress_tolerance": 100
         }
       },
@@ -72,12 +72,12 @@
         "status": "Accepted",
         "match": "25%",
         "attributes":{
-          "memory": 20,
-          "focus": 60,
-          "repetitive_tasks": 10,
-          "non_repetitie_tasks": 50,
-          "creativity": 30,
-          "stress_tolerance": 100
+          "memory": 90,
+          "focus": 70,
+          "repetitive_tasks": 50,
+          "non_repetitie_tasks": 20,
+          "creativity": 20,
+          "stress_tolerance": 80
         }
       },
       {
@@ -90,7 +90,7 @@
         "attributes":{
           "memory": 20,
           "focus": 60,
-          "repetitive_tasks": 10,
+          "repetitive_tasks": 70,
           "non_repetitie_tasks": 50,
           "creativity": 30,
           "stress_tolerance": 100
