@@ -6,7 +6,7 @@
         "name": "Stadiu Tudor",
         "email": "ceoboy@gmail.com",
         "status": "Accepted",
-        "match": "96%",
+        "match": 96,
         "attributes":{
           "memory": 20,
           "focus": 60,
@@ -22,7 +22,7 @@
         "name": "Andrei Vasile",
         "email": "ctoboy@gmail.com",
         "status": "Pending",
-        "match": "69%",
+        "match": 69,
         "attributes":{
           "memory": 80,
           "focus": 65,
@@ -38,7 +38,7 @@
         "name": "Catalin Trandafir",
         "email": "cringeboy@gmail.com",
         "status": "Rejected",
-        "match": "94%",
+        "match": 94,
         "attributes":{
           "memory": 20,
           "focus": 60,
@@ -54,7 +54,7 @@
         "name": "Yoko Yokojima",
         "email": "stupidboy@gmail.com",
         "status": "Accepted",
-        "match": "90%",
+        "match": 90,
         "attributes":{
           "memory": 70,
           "focus": 60,
@@ -70,7 +70,7 @@
         "name": "Cosmin Calcii",
         "email": "rockboy@gmail.com",
         "status": "Accepted",
-        "match": "25%",
+        "match": 25,
         "attributes":{
           "memory": 90,
           "focus": 70,
@@ -86,7 +86,7 @@
         "name": "Andrei Macaneata",
         "email": "artsyboy@gmail.com",
         "status": "Invited",
-        "match": "34%",
+        "match": 34,
         "attributes":{
           "memory": 20,
           "focus": 60,
