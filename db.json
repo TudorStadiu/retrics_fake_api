@@ -4,14 +4,14 @@
         "openingId": 1,
         "id": 1,
         "name": "Stadiu Tudor",
-        "email": "ceoboy@gmail.com",
+        "email": "tudor@gmail.com",
         "status": "Accepted",
         "match": 96,
         "attributes":{
           "memory": 20,
           "focus": 60,
           "repetitive_tasks": 30,
-          "non_repetitie_tasks": 50,
+          "non_repetitive_tasks": 50,
           "creativity": 30,
           "stress_tolerance": 90
         }
@@ -20,14 +20,14 @@
         "openingId": 1,
         "id": 2,
         "name": "Andrei Vasile",
-        "email": "ctoboy@gmail.com",
+        "email": "andrei@gmail.com",
         "status": "Pending",
         "match": 69,
         "attributes":{
           "memory": 80,
           "focus": 65,
           "repetitive_tasks": 50,
-          "non_repetitie_tasks": 50,
+          "non_repetitive_tasks": 50,
           "creativity": 30,
           "stress_tolerance": 70
         }
@@ -36,14 +36,14 @@
         "openingId": 3,
         "id": 3,
         "name": "Catalin Trandafir",
-        "email": "cringeboy@gmail.com",
+        "email": "catalin@gmail.com",
         "status": "Rejected",
         "match": 94,
         "attributes":{
           "memory": 20,
           "focus": 60,
           "repetitive_tasks": 20,
-          "non_repetitie_tasks": 40,
+          "non_repetitive_tasks": 40,
           "creativity": 30,
           "stress_tolerance": 30
         }
@@ -52,14 +52,14 @@
         "openingId": 4,
         "id": 4,
         "name": "Yoko Yokojima",
-        "email": "stupidboy@gmail.com",
+        "email": "yoko@gmail.com",
         "status": "Accepted",
         "match": 90,
         "attributes":{
           "memory": 70,
           "focus": 60,
           "repetitive_tasks": 90,
-          "non_repetitie_tasks": 80,
+          "non_repetitive_tasks": 80,
           "creativity": 40,
           "stress_tolerance": 100
         }
@@ -68,14 +68,14 @@
         "openingId": 5,
         "id": 5,
         "name": "Cosmin Calcii",
-        "email": "rockboy@gmail.com",
+        "email": "cosmin@gmail.com",
         "status": "Accepted",
         "match": 25,
         "attributes":{
           "memory": 90,
           "focus": 70,
           "repetitive_tasks": 50,
-          "non_repetitie_tasks": 20,
+          "non_repetitive_tasks": 20,
           "creativity": 20,
           "stress_tolerance": 80
         }
@@ -84,14 +84,14 @@
         "openingId": 5,
         "id": 6,
         "name": "Andrei Macaneata",
-        "email": "artsyboy@gmail.com",
+        "email": "maca@gmail.com",
         "status": "Invited",
         "match": 34,
         "attributes":{
           "memory": 20,
           "focus": 60,
           "repetitive_tasks": 70,
-          "non_repetitie_tasks": 50,
+          "non_repetitive_tasks": 50,
           "creativity": 30,
           "stress_tolerance": 100
         }
@@ -105,7 +105,7 @@
               "memory": 20,
               "focus": 60,
               "repetitive_tasks": 10,
-              "non_repetitie_tasks": 50,
+              "non_repetitive_tasks": 50,
               "creativity": 30,
               "stress_tolerance": 100
             } 
@@ -117,7 +117,7 @@
               "memory": 20,
               "focus": 30,
               "repetitive_tasks": 70,
-              "non_repetitie_tasks": 50,
+              "non_repetitive_tasks": 50,
               "creativity": 70,
               "stress_tolerance": 100
             } 
@@ -129,7 +129,7 @@
               "memory": 70,
               "focus": 60,
               "repetitive_tasks": 60,
-              "non_repetitie_tasks": 40,
+              "non_repetitive_tasks": 40,
               "creativity": 70,
               "stress_tolerance": 100
             } 
@@ -141,7 +141,7 @@
               "memory": 50,
               "focus": 30,
               "repetitive_tasks": 10,
-              "non_repetitie_tasks": 90,
+              "non_repetitive_tasks": 90,
               "creativity": 40,
               "stress_tolerance": 100
             } 
@@ -153,7 +153,7 @@
               "memory": 30,
               "focus": 80,
               "repetitive_tasks": 60,
-              "non_repetitie_tasks": 90,
+              "non_repetitive_tasks": 90,
               "creativity": 40,
               "stress_tolerance": 60
             } 
@@ -165,7 +165,7 @@
               "memory": 20,
               "focus": 60,
               "repetitive_tasks": 100,
-              "non_repetitie_tasks": 40,
+              "non_repetitive_tasks": 40,
               "creativity": 30,
               "stress_tolerance": 80
             } 
@@ -177,7 +177,7 @@
               "memory": 10,
               "focus": 10,
               "repetitive_tasks": 20,
-              "non_repetitie_tasks": 100,
+              "non_repetitive_tasks": 100,
               "creativity": 90,
               "stress_tolerance": 100
             } 
@@ -198,22 +198,22 @@
       {
         "id": 3,
         "name": "HR Employee Consuela",
-        "email": "Consuela@gmail.com" 
+        "email": "consuela@gmail.com" 
       },
       {
         "id": 4,
         "name": "HR Employee Alin",
-        "email": "Alin@gmail.com" 
+        "email": "alin@gmail.com" 
       },
       {
         "id": 5,
-        "name": "HR Employee Delfin",
-        "email": "Delfin@gmail.com" 
+        "name": "HR Employee Andrei",
+        "email": "andrei@gmail.com" 
       },
       {
         "id": 7,
-        "name": "HR Employee Biban",
-        "email": "biban@gmail.com" 
+        "name": "HR Employee Bogdan",
+        "email": "bogdan@gmail.com" 
       }
     ]
 
