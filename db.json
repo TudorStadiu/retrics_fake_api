@@ -8,12 +8,11 @@
         "status": "Accepted",
         "match": 96,
         "attributes":{
-          "memory": 20,
-          "focus": 60,
-          "repetitive_tasks": 30,
-          "non_repetitive_tasks": 50,
-          "creativity": 30,
-          "stress_tolerance": 90
+          "openness": 20,
+          "conscienciousness": 60,
+          "extraversion": 30,
+          "agreeableness": 50,
+          "neuroticism": 30
         }
       },
       {
@@ -24,12 +23,11 @@
         "status": "Pending",
         "match": 69,
         "attributes":{
-          "memory": 80,
-          "focus": 65,
-          "repetitive_tasks": 50,
-          "non_repetitive_tasks": 50,
-          "creativity": 30,
-          "stress_tolerance": 70
+          "openness": 20,
+          "conscienciousness": 60,
+          "extraversion": 30,
+          "agreeableness": 50,
+          "neuroticism": 30
         }
       },
       {
@@ -40,12 +38,11 @@
         "status": "Rejected",
         "match": 94,
         "attributes":{
-          "memory": 20,
-          "focus": 60,
-          "repetitive_tasks": 20,
-          "non_repetitive_tasks": 40,
-          "creativity": 30,
-          "stress_tolerance": 30
+          "openness": 20,
+          "conscienciousness": 60,
+          "extraversion": 30,
+          "agreeableness": 50,
+          "neuroticism": 30
         }
       },
       {
@@ -56,12 +53,11 @@
         "status": "Accepted",
         "match": 90,
         "attributes":{
-          "memory": 70,
-          "focus": 60,
-          "repetitive_tasks": 90,
-          "non_repetitive_tasks": 80,
-          "creativity": 40,
-          "stress_tolerance": 100
+          "openness": 20,
+          "conscienciousness": 60,
+          "extraversion": 30,
+          "agreeableness": 50,
+          "neuroticism": 30
         }
       },
       {
@@ -72,12 +68,11 @@
         "status": "Accepted",
         "match": 25,
         "attributes":{
-          "memory": 90,
-          "focus": 70,
-          "repetitive_tasks": 50,
-          "non_repetitive_tasks": 20,
-          "creativity": 20,
-          "stress_tolerance": 80
+          "openness": 20,
+          "conscienciousness": 60,
+          "extraversion": 30,
+          "agreeableness": 50,
+          "neuroticism": 30
         }
       },
       {
@@ -88,12 +83,11 @@
         "status": "Invited",
         "match": 34,
         "attributes":{
-          "memory": 20,
-          "focus": 60,
-          "repetitive_tasks": 70,
-          "non_repetitive_tasks": 50,
-          "creativity": 30,
-          "stress_tolerance": 100
+          "openness": 20,
+          "conscienciousness": 60,
+          "extraversion": 30,
+          "agreeableness": 50,
+          "neuroticism": 30
         }
       }
     ],
@@ -102,84 +96,77 @@
             "id": 1,
             "name": "Junior Accountant",
             "attributes":{
-              "memory": 20,
-              "focus": 60,
-              "repetitive_tasks": 10,
-              "non_repetitive_tasks": 50,
-              "creativity": 30,
-              "stress_tolerance": 100
+              "openness": 20,
+              "conscienciousness": 60,
+              "extraversion": 30,
+              "agreeableness": 50,
+              "neuroticism": 30
             } 
           },
           {
             "id": 2,
             "name": "Software Developer",
             "attributes":{
-              "memory": 20,
-              "focus": 30,
-              "repetitive_tasks": 70,
-              "non_repetitive_tasks": 50,
-              "creativity": 70,
-              "stress_tolerance": 100
+              "openness": 20,
+              "conscienciousness": 60,
+              "extraversion": 30,
+              "agreeableness": 50,
+              "neuroticism": 30
             } 
           },
           {
             "id": 3,
             "name": "Senior Sales",
             "attributes":{
-              "memory": 70,
-              "focus": 60,
-              "repetitive_tasks": 60,
-              "non_repetitive_tasks": 40,
-              "creativity": 70,
-              "stress_tolerance": 100
+              "openness": 20,
+              "conscienciousness": 60,
+              "extraversion": 30,
+              "agreeableness": 50,
+              "neuroticism": 30
             } 
           },
           {
             "id": 4,
             "name": "Product Manager",
             "attributes":{
-              "memory": 50,
-              "focus": 30,
-              "repetitive_tasks": 10,
-              "non_repetitive_tasks": 90,
-              "creativity": 40,
-              "stress_tolerance": 100
+              "openness": 20,
+              "conscienciousness": 60,
+              "extraversion": 30,
+              "agreeableness": 50,
+              "neuroticism": 30
             } 
           },
           {
             "id": 5,
             "name": "Data Scientist",
             "attributes":{
-              "memory": 30,
-              "focus": 80,
-              "repetitive_tasks": 60,
-              "non_repetitive_tasks": 90,
-              "creativity": 40,
-              "stress_tolerance": 60
+              "openness": 20,
+              "conscienciousness": 60,
+              "extraversion": 30,
+              "agreeableness": 50,
+              "neuroticism": 30
             } 
           },
           {
             "id": 6,
             "name": "Junior Marketing Manager",
             "attributes":{
-              "memory": 20,
-              "focus": 60,
-              "repetitive_tasks": 100,
-              "non_repetitive_tasks": 40,
-              "creativity": 30,
-              "stress_tolerance": 80
+              "openness": 20,
+              "conscienciousness": 60,
+              "extraversion": 30,
+              "agreeableness": 50,
+              "neuroticism": 30
             } 
           },
           {
             "id": 7,
             "name": "Business Analyst",
             "attributes":{
-              "memory": 10,
-              "focus": 10,
-              "repetitive_tasks": 20,
-              "non_repetitive_tasks": 100,
-              "creativity": 90,
-              "stress_tolerance": 100
+              "openness": 20,
+              "conscienciousness": 60,
+              "extraversion": 30,
+              "agreeableness": 50,
+              "neuroticism": 30
             } 
           }
                 
