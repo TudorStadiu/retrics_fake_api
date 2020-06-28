@@ -68,11 +68,11 @@
         "status": "Accepted",
         "match": 25,
         "attributes":{
-          "openness": 20,
-          "conscienciousness": 60,
-          "extraversion": 30,
+          "openness": 10,
+          "conscienciousness": 50,
+          "extraversion": 100,
           "agreeableness": 50,
-          "neuroticism": 30
+          "neuroticism": 80
         }
       },
       {
