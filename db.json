@@ -23,11 +23,11 @@
         "status": "Pending",
         "match": 69,
         "attributes":{
-          "openness": 20,
-          "conscienciousness": 60,
-          "extraversion": 30,
-          "agreeableness": 50,
-          "neuroticism": 30
+          "openness": 80,
+          "conscienciousness": 65,
+          "extraversion": 32,
+          "agreeableness": 61,
+          "neuroticism": 97
         }
       },
       {
@@ -38,11 +38,11 @@
         "status": "Rejected",
         "match": 94,
         "attributes":{
-          "openness": 20,
-          "conscienciousness": 60,
-          "extraversion": 30,
-          "agreeableness": 50,
-          "neuroticism": 30
+          "openness": 98,
+          "conscienciousness": 23,
+          "extraversion": 45,
+          "agreeableness": 56,
+          "neuroticism": 34
         }
       },
       {
@@ -53,11 +53,11 @@
         "status": "Accepted",
         "match": 90,
         "attributes":{
-          "openness": 20,
-          "conscienciousness": 60,
-          "extraversion": 30,
-          "agreeableness": 50,
-          "neuroticism": 30
+          "openness": 10,
+          "conscienciousness": 85,
+          "extraversion": 34,
+          "agreeableness": 14,
+          "neuroticism": 89
         }
       },
       {
@@ -83,11 +83,11 @@
         "status": "Invited",
         "match": 34,
         "attributes":{
-          "openness": 20,
-          "conscienciousness": 60,
-          "extraversion": 30,
-          "agreeableness": 50,
-          "neuroticism": 30
+          "openness": 82,
+          "conscienciousness": 67,
+          "extraversion": 31,
+          "agreeableness": 58,
+          "neuroticism": 99
         }
       }
     ],
