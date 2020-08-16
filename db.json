@@ -8,11 +8,11 @@
         "status": "Accepted",
         "match": 96,
         "attributes":{
-          "openness": 20,
-          "conscienciousness": 60,
-          "extraversion": 30,
-          "agreeableness": 50,
-          "neuroticism": 30
+          "memory": 20,
+          "risk_taking": 60,
+          "sustained_attention": 30,
+          "selective_attention": 50,
+          "conflict_resolution": 30
         }
       },
       {
@@ -23,11 +23,11 @@
         "status": "Pending",
         "match": 69,
         "attributes":{
-          "openness": 80,
-          "conscienciousness": 65,
-          "extraversion": 32,
-          "agreeableness": 61,
-          "neuroticism": 97
+          "memory": 80,
+          "risk_taking": 65,
+          "sustained_attention": 32,
+          "selective_attention": 61,
+          "conflict_resolution": 97
         }
       },
       {
@@ -38,11 +38,11 @@
         "status": "Rejected",
         "match": 94,
         "attributes":{
-          "openness": 98,
-          "conscienciousness": 23,
-          "extraversion": 45,
-          "agreeableness": 56,
-          "neuroticism": 34
+          "memory": 98,
+          "risk_taking": 23,
+          "sustained_attention": 45,
+          "selective_attention": 56,
+          "conflict_resolution": 34
         }
       },
       {
@@ -53,11 +53,11 @@
         "status": "Accepted",
         "match": 90,
         "attributes":{
-          "openness": 10,
-          "conscienciousness": 85,
-          "extraversion": 34,
-          "agreeableness": 14,
-          "neuroticism": 89
+          "memory": 10,
+          "risk_taking": 85,
+          "sustained_attention": 34,
+          "selective_attention": 14,
+          "conflict_resolution": 89
         }
       },
       {
@@ -68,11 +68,11 @@
         "status": "Accepted",
         "match": 25,
         "attributes":{
-          "openness": 10,
-          "conscienciousness": 50,
-          "extraversion": 100,
-          "agreeableness": 50,
-          "neuroticism": 80
+          "memory": 10,
+          "risk_taking": 50,
+          "sustained_attention": 100,
+          "selective_attention": 50,
+          "conflict_resolution": 80
         }
       },
       {
@@ -83,11 +83,11 @@
         "status": "Invited",
         "match": 34,
         "attributes":{
-          "openness": 82,
-          "conscienciousness": 67,
-          "extraversion": 31,
-          "agreeableness": 58,
-          "neuroticism": 99
+          "memory": 82,
+          "risk_taking": 67,
+          "sustained_attention": 31,
+          "selective_attention": 58,
+          "conflict_resolution": 99
         }
       }
     ],
@@ -96,77 +96,77 @@
             "id": 1,
             "name": "Junior Accountant",
             "attributes":{
-              "openness": 20,
-              "conscienciousness": 60,
-              "extraversion": 30,
-              "agreeableness": 50,
-              "neuroticism": 30
+              "memory": 20,
+              "risk_taking": 60,
+              "sustained_attention": 30,
+              "selective_attention": 50,
+              "conflict_resolution": 30
             } 
           },
           {
             "id": 2,
             "name": "Software Developer",
             "attributes":{
-              "openness": 20,
-              "conscienciousness": 60,
-              "extraversion": 30,
-              "agreeableness": 50,
-              "neuroticism": 30
+              "memory": 20,
+              "risk_taking": 60,
+              "sustained_attention": 30,
+              "selective_attention": 50,
+              "conflict_resolution": 30
             } 
           },
           {
             "id": 3,
             "name": "Senior Sales",
             "attributes":{
-              "openness": 20,
-              "conscienciousness": 60,
-              "extraversion": 30,
-              "agreeableness": 50,
-              "neuroticism": 30
+              "memory": 20,
+              "risk_taking": 60,
+              "sustained_attention": 30,
+              "selective_attention": 50,
+              "conflict_resolution": 30
             } 
           },
           {
             "id": 4,
             "name": "Product Manager",
             "attributes":{
-              "openness": 20,
-              "conscienciousness": 60,
-              "extraversion": 30,
-              "agreeableness": 50,
-              "neuroticism": 30
+              "memory": 20,
+              "risk_taking": 60,
+              "sustained_attention": 30,
+              "selective_attention": 50,
+              "conflict_resolution": 30
             } 
           },
           {
             "id": 5,
             "name": "Data Scientist",
             "attributes":{
-              "openness": 20,
-              "conscienciousness": 60,
-              "extraversion": 30,
-              "agreeableness": 50,
-              "neuroticism": 30
+              "memory": 20,
+              "risk_taking": 60,
+              "sustained_attention": 30,
+              "selective_attention": 50,
+              "conflict_resolution": 30
             } 
           },
           {
             "id": 6,
             "name": "Junior Marketing Manager",
             "attributes":{
-              "openness": 20,
-              "conscienciousness": 60,
-              "extraversion": 30,
-              "agreeableness": 50,
-              "neuroticism": 30
+              "memory": 20,
+              "risk_taking": 60,
+              "sustained_attention": 30,
+              "selective_attention": 50,
+              "conflict_resolution": 30
             } 
           },
           {
             "id": 7,
             "name": "Business Analyst",
             "attributes":{
-              "openness": 20,
-              "conscienciousness": 60,
-              "extraversion": 30,
-              "agreeableness": 50,
-              "neuroticism": 30
+              "memory": 20,
+              "risk_taking": 60,
+              "sustained_attention": 30,
+              "selective_attention": 50,
+              "conflict_resolution": 30
             } 
           }
                 
