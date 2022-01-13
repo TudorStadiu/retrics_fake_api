@@ -1,207 +1,112 @@
 {
-    "candidates" : [
-      {
-        "openingId": 1,
-        "id": 1,
-        "name": "Stadiu Tudor",
-        "email": "tudor@gmail.com",
-        "status": "Accepted",
-        "match": 96,
-        "attributes":{
-          "memory": 20,
-          "risk_taking": 60,
-          "sustained_attention": 30,
-          "selective_attention": 50,
-          "conflict_resolution": 30
-        }
-      },
-      {
-        "openingId": 1,
-        "id": 2,
-        "name": "Andrei Vasile",
-        "email": "andrei@gmail.com",
-        "status": "Pending",
-        "match": 69,
-        "attributes":{
-          "memory": 80,
-          "risk_taking": 65,
-          "sustained_attention": 32,
-          "selective_attention": 61,
-          "conflict_resolution": 97
-        }
-      },
-      {
-        "openingId": 3,
-        "id": 3,
-        "name": "Catalin Trandafir",
-        "email": "catalin@gmail.com",
-        "status": "Rejected",
-        "match": 94,
-        "attributes":{
-          "memory": 98,
-          "risk_taking": 23,
-          "sustained_attention": 45,
-          "selective_attention": 56,
-          "conflict_resolution": 34
-        }
-      },
-      {
-        "openingId": 4,
-        "id": 4,
-        "name": "Yoko Yokojima",
-        "email": "yoko@gmail.com",
-        "status": "Accepted",
-        "match": 90,
-        "attributes":{
-          "memory": 10,
-          "risk_taking": 85,
-          "sustained_attention": 34,
-          "selective_attention": 14,
-          "conflict_resolution": 89
-        }
-      },
-      {
-        "openingId": 5,
-        "id": 5,
-        "name": "Cosmin Calcii",
-        "email": "cosmin@gmail.com",
-        "status": "Accepted",
-        "match": 25,
-        "attributes":{
-          "memory": 10,
-          "risk_taking": 50,
-          "sustained_attention": 100,
-          "selective_attention": 50,
-          "conflict_resolution": 80
-        }
-      },
-      {
-        "openingId": 5,
-        "id": 6,
-        "name": "Andrei Macaneata",
-        "email": "maca@gmail.com",
-        "status": "Invited",
-        "match": 34,
-        "attributes":{
-          "memory": 82,
-          "risk_taking": 67,
-          "sustained_attention": 31,
-          "selective_attention": 58,
-          "conflict_resolution": 99
-        }
-      }
-    ],
-    "openings" : [
-        {
-            "id": 1,
-            "name": "Junior Accountant",
-            "attributes":{
-              "memory": 20,
-              "risk_taking": 60,
-              "sustained_attention": 30,
-              "selective_attention": 50,
-              "conflict_resolution": 30
-            } 
-          },
-          {
-            "id": 2,
-            "name": "Software Developer",
-            "attributes":{
-              "memory": 20,
-              "risk_taking": 60,
-              "sustained_attention": 30,
-              "selective_attention": 50,
-              "conflict_resolution": 30
-            } 
-          },
-          {
-            "id": 3,
-            "name": "Senior Sales",
-            "attributes":{
-              "memory": 20,
-              "risk_taking": 60,
-              "sustained_attention": 30,
-              "selective_attention": 50,
-              "conflict_resolution": 30
-            } 
-          },
-          {
-            "id": 4,
-            "name": "Product Manager",
-            "attributes":{
-              "memory": 20,
-              "risk_taking": 60,
-              "sustained_attention": 30,
-              "selective_attention": 50,
-              "conflict_resolution": 30
-            } 
-          },
-          {
-            "id": 5,
-            "name": "Data Scientist",
-            "attributes":{
-              "memory": 20,
-              "risk_taking": 60,
-              "sustained_attention": 30,
-              "selective_attention": 50,
-              "conflict_resolution": 30
-            } 
-          },
-          {
-            "id": 6,
-            "name": "Junior Marketing Manager",
-            "attributes":{
-              "memory": 20,
-              "risk_taking": 60,
-              "sustained_attention": 30,
-              "selective_attention": 50,
-              "conflict_resolution": 30
-            } 
-          },
-          {
-            "id": 7,
-            "name": "Business Analyst",
-            "attributes":{
-              "memory": 20,
-              "risk_taking": 60,
-              "sustained_attention": 30,
-              "selective_attention": 50,
-              "conflict_resolution": 30
-            } 
-          }
+    "photos" : [
+{
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "natus nisi omnis corporis facere molestiae rerum in",
+    "url": "https://via.placeholder.com/600/f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  },
                 
     ],
     "users" : [
-      {
-        "id": 1,
-        "name": "HR Employee Ariana",
-        "email": "ariana@gmail.com" 
-      },
-      {
-        "id": 2,
-        "name": "HR Employee Maricela",
-        "email": "Maricela@gmail.com" 
-      },
-      {
-        "id": 3,
-        "name": "HR Employee Consuela",
-        "email": "consuela@gmail.com" 
-      },
-      {
-        "id": 4,
-        "name": "HR Employee Alin",
-        "email": "alin@gmail.com" 
-      },
-      {
-        "id": 5,
-        "name": "HR Employee Andrei",
-        "email": "andrei@gmail.com" 
-      },
-      {
-        "id": 7,
-        "name": "HR Employee Bogdan",
-        "email": "bogdan@gmail.com" 
+{
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
       }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "010-692-6593 x09125",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157",
+      "geo": {
+        "lat": "-68.6102",
+        "lng": "-47.0653"
+      }
+    },
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "company": {
+      "name": "Romaguera-Jacobson",
+      "catchPhrase": "Face to face bifurcated interface",
+      "bs": "e-enable strategic applications"
+    }
+  },
     ]
 
 }
